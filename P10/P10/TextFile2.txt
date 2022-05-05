@@ -1,0 +1,18 @@
+
+Inainte de sortare: 
+
+Popescu Maria 9.66666666666667
+Ionescu Daniela 8
+Vasilescu Bogdan 10
+Georgescu Anca 9.66666666666667
+Marinescu Daniel 9
+Popescu Andrei 9.66666666666667
+
+Dupa sortare: 
+
+Vasilescu Bogdan 10
+Georgescu Anca 9.66666666666667
+Popescu Andrei 9.66666666666667
+Popescu Maria 9.66666666666667
+Marinescu Daniel 9
+Ionescu Daniela 8

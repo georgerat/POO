@@ -1,0 +1,6 @@
+Popescu Maria 3 10 9 10
+Ionescu Daniela 3 8 10 6
+Vasilescu Bogdan 2 10 10
+Georgescu Anca 3 10 9 10
+Marinescu Daniel 2 9 9
+Popescu Andrei 3 9 10 10
