@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15A3A694-DB20-47E6-8FCC-19DB25B15C26}</ProjectGuid>
+    <ProjectGuid>{12424B13-EB5C-447F-88B3-E67074149836}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>P10</RootNamespace>
     <AssemblyName>P10</AssemblyName>
@@ -50,6 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TextFile1.txt" />
     <Content Include="TextFile2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
